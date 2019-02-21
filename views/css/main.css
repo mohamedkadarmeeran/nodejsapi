@@ -1,0 +1,24 @@
+
+body{
+	text-align: center !important;
+}
+    body{
+       background-image: url(../images/bg1.png);
+       background-attachment: fixed;
+       background-origin:border-box;
+       background-repeat: no-repeat;
+       background-size: 100% 100%;
+       background-position: center; 
+    }
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
